@@ -1,2 +1,1 @@
-# Dac_Project
-Academic project of PG-DAC 2023
+This is E-commerce project.
